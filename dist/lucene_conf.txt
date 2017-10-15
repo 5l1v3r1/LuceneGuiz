@@ -1,0 +1,5 @@
+contents
+filename
+filepath
+10
+.txt
